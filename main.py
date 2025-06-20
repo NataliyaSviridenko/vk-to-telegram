@@ -142,3 +142,4 @@ def vk_work():  # Вся магия здесь
 
 Thread(target=vk_work).start()
 Thread(target=tg_session.polling).start()
+python
